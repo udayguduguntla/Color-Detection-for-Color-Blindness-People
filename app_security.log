@@ -1,0 +1,93 @@
+2025-01-23 20:03:41,478 - INFO - Application started with session token: ddbaf192f9b5be13f17e16c8c5c246aff79978926b07f04b9d27e1465cd0c641
+2025-01-23 20:03:46,798 - INFO - User initiated action: image_selection
+2025-01-23 20:03:50,815 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-01-23 20:03:50,829 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-01-23 20:03:56,330 - INFO - User initiated action: webcam_start
+2025-01-23 20:03:56,893 - INFO - Webcam session started with token: 14cf3b58e234f134d2ab9f95620aa308f29eb08172ddf8e64796f7648664ba36
+2025-01-23 20:04:00,808 - INFO - Webcam session ended: 14cf3b58e234f134d2ab9f95620aa308f29eb08172ddf8e64796f7648664ba36
+2025-01-23 20:05:59,849 - INFO - User initiated action: webcam_start
+2025-01-23 20:06:00,302 - INFO - Webcam session started with token: fcc59eaef4b7abf2a0ee99cdf46cacac5458360b023938dd8da96231617993ec
+2025-01-23 20:06:22,367 - INFO - Webcam session ended: fcc59eaef4b7abf2a0ee99cdf46cacac5458360b023938dd8da96231617993ec
+2025-02-08 15:43:10,437 - INFO - Application started with session token: a3ab780487f70fcfca156189f9186877ac29e9563f587a25ec7f61a8dd6de2b4
+2025-02-08 15:43:12,940 - INFO - User initiated action: image_selection
+2025-02-08 15:43:16,437 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-02-08 15:43:16,463 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-08 15:43:29,311 - INFO - User initiated action: webcam_start
+2025-02-08 15:43:30,126 - INFO - Webcam session started with token: 5fb208dfa600cf7ecebc84560f3c2b07c7366ffb3e2e16f697e7b295a4cea5a2
+2025-02-08 15:43:33,283 - INFO - Webcam session ended: 5fb208dfa600cf7ecebc84560f3c2b07c7366ffb3e2e16f697e7b295a4cea5a2
+2025-02-08 15:44:04,454 - INFO - User initiated action: image_selection
+2025-02-08 15:44:08,136 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-02-08 15:44:08,136 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-08 15:44:35,715 - INFO - User initiated action: webcam_start
+2025-02-08 15:44:36,140 - INFO - Webcam session started with token: ba2bda566a0c28ad48bd40bf9a767033cf9d6d0da092bb9ab9aadcc48bd8e430
+2025-02-08 15:49:11,154 - INFO - Webcam session ended: ba2bda566a0c28ad48bd40bf9a767033cf9d6d0da092bb9ab9aadcc48bd8e430
+2025-02-08 16:02:53,710 - INFO - Application started with session token: 49166c6c591a89bcc5e544d232689c866c8ff15b62a699cfc98808c86294331f
+2025-02-08 16:02:56,155 - INFO - User initiated action: image_selection
+2025-02-08 16:02:59,962 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-02-08 16:02:59,975 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-19 13:19:33,735 - INFO - Application started with session token: d485d2fac053217b2f093f798b6e8334aa2b04632ae26392c35babefb626c31c
+2025-02-19 13:19:40,036 - INFO - User initiated action: image_selection
+2025-02-19 13:19:45,250 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/Workflow Diagram of color detection.png with hash: c69fdc3a5ccf2bcbc4365ca6204258b2b943eebdf9349ae96aca896ac59c8e36
+2025-02-19 13:19:45,259 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-19 13:20:05,928 - INFO - User initiated action: webcam_start
+2025-02-19 13:20:06,677 - INFO - Webcam session started with token: b33d8f4dd61362262bb3962fb1cd52739fb1b02cd89478e299ce7381a2184170
+2025-02-19 13:20:14,678 - INFO - Webcam session ended: b33d8f4dd61362262bb3962fb1cd52739fb1b02cd89478e299ce7381a2184170
+2025-02-25 09:40:05,060 - INFO - Application started with session token: 0bb4beec80cf21eb229383fac0eef57ea62885284bb5dd35a0db6964bee8d251
+2025-02-25 09:40:13,185 - INFO - User initiated action: image_selection
+2025-02-25 09:40:18,389 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-02-25 09:40:18,411 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-25 09:40:35,675 - INFO - User initiated action: webcam_start
+2025-02-25 09:40:36,351 - INFO - Webcam session started with token: 144913cfe2de3512c9eb97e5be81e242154606c3c5c10e0aeed2d72ff886452c
+2025-02-25 09:41:07,735 - INFO - Webcam session ended: 144913cfe2de3512c9eb97e5be81e242154606c3c5c10e0aeed2d72ff886452c
+2025-02-25 10:51:26,818 - INFO - Application started with session token: c935aed1f664b054a8d8386970f9bbf9cb0199750ab097358d8da0f09018f5e2
+2025-02-25 10:51:53,818 - INFO - User initiated action: image_selection
+2025-02-25 10:52:00,863 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Color detection/colorpic.jpg with hash: cd6c6869568999597b26b52d80e64666d250da24a4e6befb4c5034c398980cc4
+2025-02-25 10:52:00,863 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-02-25 10:52:19,036 - INFO - User initiated action: webcam_start
+2025-02-25 10:52:19,556 - INFO - Webcam session started with token: d9d963ec5266727185687cfed34a55104330dcca4c0e7d1c0cc0402f2f5de80c
+2025-02-25 10:52:37,496 - INFO - Webcam session ended: d9d963ec5266727185687cfed34a55104330dcca4c0e7d1c0cc0402f2f5de80c
+2025-03-12 13:34:32,704 - INFO - Application started with session token: c9f5e9854977663d2871927d84409d21675e19dc556538e597bce85b9c0bc8a9
+2025-03-12 13:34:39,338 - INFO - User initiated action: image_selection
+2025-03-12 13:34:49,117 - INFO - User initiated action: image_selection
+2025-03-12 13:34:54,387 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Secure-Data-Hiding-in-Images-Using-Steganography-main/test_image.jpg with hash: 44369f2c740cb8b258f07e49370152f384c1326451a363b70faeeffc23ae3734
+2025-03-12 13:34:54,403 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-03-12 13:35:12,464 - INFO - User initiated action: webcam_start
+2025-03-12 13:35:13,247 - INFO - Webcam session started with token: 0334fa6d73b20afbfbbcd3dae69a6306db3d003a780a0897c1f9d67872696552
+2025-03-12 13:36:12,687 - INFO - Webcam session ended: 0334fa6d73b20afbfbbcd3dae69a6306db3d003a780a0897c1f9d67872696552
+2025-04-10 09:17:51,886 - INFO - Application started with session token: 656363464e74d098cdcf8ca3b782a0893b32484f294f981f11c08a41270baaed
+2025-04-10 09:18:18,487 - INFO - User initiated action: image_selection
+2025-04-10 09:18:23,903 - INFO - Opening image: C:/Users/sivak/OneDrive/Desktop/Secure-Data-Hiding-in-Images-Using-Steganography-main/test_image.jpg with hash: 44369f2c740cb8b258f07e49370152f384c1326451a363b70faeeffc23ae3734
+2025-04-10 09:18:23,927 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-04-10 09:18:47,898 - INFO - User initiated action: webcam_start
+2025-04-10 09:18:48,704 - INFO - Webcam session started with token: 069f9af8d0ee93afff5e270fd1789f3b61510d53703107995f162348f70c8e7e
+2025-04-10 09:19:04,770 - INFO - Webcam session ended: 069f9af8d0ee93afff5e270fd1789f3b61510d53703107995f162348f70c8e7e
+2025-04-10 15:13:38,874 - INFO - Application started with session token: fe026d45fcf88cd4408c3ac1abd6c24acd7891cde732368e10ee545184b3d8b9
+2025-04-10 15:13:43,562 - INFO - User initiated action: image_selection
+2025-04-10 15:13:55,957 - INFO - Opening image: C:/Users/udayg/OneDrive/Pictures/Screenshots/Screenshot (45).png with hash: ab72ac28093d530410bcb5178d5d0b388b64b546a461a23c5fb793940afffba8
+2025-04-10 15:13:55,984 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-04-10 15:14:40,256 - INFO - User initiated action: webcam_start
+2025-04-10 15:14:40,256 - INFO - User initiated action: webcam_start
+2025-04-10 15:14:40,297 - ERROR - Failed to open webcam
+2025-04-10 15:14:40,524 - ERROR - Failed to open webcam
+2025-04-10 15:14:42,342 - INFO - Webcam session ended: a595d26089e07b9622e59beb2130d34b04ca41e722c4071b570552489ddcd4dd
+2025-04-10 15:14:44,492 - INFO - Webcam session ended: 4881519427d9c0bab46c45cb308303ff884e46ced7fe67fa337da9d2f8785703
+2025-04-10 15:14:46,263 - INFO - User initiated action: webcam_start
+2025-04-10 15:14:46,634 - INFO - Webcam session started with token: b6b6d79dbd1894219597646f1309726ba56923c94e32dd975a562c0e2311eaf7
+2025-04-10 15:15:19,598 - INFO - Webcam session ended: b6b6d79dbd1894219597646f1309726ba56923c94e32dd975a562c0e2311eaf7
+2025-04-10 15:24:19,570 - INFO - Application started with session token: 97848aa5ffd7f78dd6c79f62123f3196697b196e2378018c9b6d77913abfeb0b
+2025-04-10 15:24:43,557 - INFO - User initiated action: webcam_start
+2025-04-10 15:24:43,561 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-04-10 15:24:44,208 - INFO - Webcam session started with token: 3ca46ed90d8dcef9670fb0d0ceaf646962a3136077249f8964f4d09820afa3e7
+2025-04-10 15:27:32,911 - INFO - Webcam session ended: 3ca46ed90d8dcef9670fb0d0ceaf646962a3136077249f8964f4d09820afa3e7
+2025-04-10 15:34:37,792 - INFO - Application started with session token: d2413b03d61077b2520726ad94298cb01f6f18393089ad341014054d817e7060
+2025-04-10 15:34:46,036 - INFO - User initiated action: image_selection
+2025-04-10 15:34:56,872 - WARNING - Invalid file type attempted: .pdf
+2025-04-10 15:35:01,705 - WARNING - Invalid file attempt: C:/Users/udayg/Downloads/TCS CodeVita Season 12 Certificate - uday2945.pdf
+2025-04-10 15:35:44,620 - INFO - Application started with session token: ac9aaa2d70e05efc3bc8c5269edd599a80d4fd38d53aecde12feabf03c8d06b1
+2025-04-10 15:35:46,681 - INFO - User initiated action: image_selection
+2025-04-10 15:35:51,215 - INFO - Opening image: C:/Users/udayg/Downloads/Untitled design (2).png with hash: dfeb104bb3794af6661266997a2666697f1f666ddfd88a98bc4bb0e3bb779a0b
+2025-04-10 15:35:51,264 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
+2025-04-10 15:43:03,580 - INFO - Application started with session token: 10de7fde87a64c4f166cbfba558ad6d47df651e3b379747c138933ccd6004996
+2025-04-10 15:43:09,565 - INFO - User initiated action: image_selection
+2025-04-10 15:43:14,944 - INFO - Opening image: C:/Users/udayg/Downloads/Untitled design (1).png with hash: 4c8c25b012749f80e89dc1a79924e94a779ccff99bad66c7f7deb8e5e777cb80
+2025-04-10 15:43:14,975 - INFO - Loading CSV with hash: 0f965aa0a9a3c43445c3e49d2ab972360ce226d9dc6d5754c82870f34ad7fdb6
